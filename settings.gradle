@@ -1,0 +1,2 @@
+rootProject.name='SMANSA QUIZ'
+include ':app'
